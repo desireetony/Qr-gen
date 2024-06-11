@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../pythonprogs"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Portfolio"
+		}
+	],
+	"settings": {}
+}
